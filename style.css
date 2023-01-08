@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+.Mian-heder{
+
+    height: 100%;
+    min-height:100vh;
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(IMG/comp6-about-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.logo img {   
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+    margin: 10px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(254 248 248 / 90%);
+    font-size: 17px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(48 224 0 / 89%);
+}
+.primary-menu ul li {
+    display: inline;
+    margin-left: 65px;
+    padding: 14px;
+}
+
+.primary-menu ul {
+    margin-top: 0px;
+}
+
+.primary-menu ul li a:hover {
+    color: #28de3a;
+    fontsize:;
+}
+
+.header-btn {
+    margin-top: 10px;
+}
+.header-btn2 {
+    margin-top: 110px;
+}
+.header-title h4 {
+    color: white;
+    font-size: 16px;
+}
+
+.header-title {
+    margin-top: 143px;
+
+}
+.header-title h1 {
+    color: #f1f6f1;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    font-weight: 600;
+}
+.header-title span {
+    color: #28de3a;
+}
+.header-title p {
+    color: white;
+    font-size: 13px;
+    margin-top: 38px;
+}
+
+
+
